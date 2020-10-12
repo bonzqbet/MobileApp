@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+Detail Flutter
+[![1.png](https://i.postimg.cc/brLc2DCt/1.png)](https://postimg.cc/hQJ3kjqD)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
